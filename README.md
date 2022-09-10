@@ -16,12 +16,12 @@ Technology stack: Next.js, Ethers.js, 0x API /swap Endpoint and Vercel.
 
 Información destacada:
 
-Pude realizar un swap exitosamente después de que hiciera una corrección en el número de ID de la cadena de la red en MetaMask que me enteré por la consola que estaba configurado en un número equivocado.
+Pude realizar un swap exitosamente después de que hiciera una corrección en el número de ID de la cadena de la red en MetaMask que me enteré por la consola del navegador que estaba configurado en un número equivocado.
 
 
 Highlighted information:
 
-I was able to make a succesful swap after having made a correction on a network's chain ID number on MetaMask that I found out had been set to a wrong number.
+I was able to make a succesful swap after having made a correction on a network's chain ID number on MetaMask that I found out through the browser's console that it had been set to a wrong number.
 
 
 
