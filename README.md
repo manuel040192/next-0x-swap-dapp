@@ -13,4 +13,4 @@ App that requires being connected to a MetaMask wallet to be able to sell Ether 
 
 Technology stack: Next.js, Ethers.js, 0x API /swap Endpoint and Vercel.
 
-![This is an image](https://drive.google.com/drive/u/0/folders/1KCefRQ6M0vcmWjJ3BuCkAmLdtj0Wr_5v)
+![This is an image](https://i.postimg.cc/9QkmjQm4/Captura-de-pantalla-2022-09-10-143148.png)
