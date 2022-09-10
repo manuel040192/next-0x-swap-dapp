@@ -26,3 +26,5 @@ I was able to make a succesful swap after having made a correction on a network'
 
 
 ![This is an image](https://i.postimg.cc/9QkmjQm4/Captura-de-pantalla-2022-09-10-143148.png)
+
+![This is an image](https://i.postimg.cc/Cx7vZRB1/Captura-de-pantalla-2022-09-10-141819.png)
